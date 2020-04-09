@@ -1,4 +1,5 @@
-[
+{
+  body:[
                 {
                     "id": "1",
                     "imagen": "https://thumbs.subefotos.com/4a038c6f6dd346e93ebc078d3d45b538o.jpg",
@@ -74,4 +75,5 @@
                 }
 
             ]
+}
 
